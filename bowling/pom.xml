@@ -52,7 +52,7 @@
   
  </build>  
  <properties>  
-  	<spring.version>5.3.18</spring.version>  
+  	<spring.version>5.3.20</spring.version>  
   	<jdk.version>1.8</jdk.version>  
  </properties>  
 </project>  
